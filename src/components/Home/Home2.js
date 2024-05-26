@@ -108,7 +108,7 @@ function Home2() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(118 0 173)", color: "#fff" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(118 0 173)" }}
-            date="Dec 2023 - Present"
+            date="Dec 2023 - April 2024"
             iconStyle={{ background: "rgb(118 0 173)", color: "#fff" }}
             icon={<AiFillCode />}
           >
